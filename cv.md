@@ -16,8 +16,10 @@
 	
   In terms of **self-education**, I read books on programming (*“Programming. Principles and Practices for Using C”* by Bjarn Straustrup, *“Pro C # 5.0 and the .NET 4.5 Framework”* by Andrew Troelsen, *“Android for Developers”* by Paul Daytel), I listened *intensively from Android* to Technopolis developed and completed *Java Core It-Academy courses*. I also go an *internship* at Akordirect.
 	
-  <h3>English</h3>
+  <h3>Language</h3>
   
   **I study English** for three years at the university. As part of self-study, I watch a lot of *films* and *cartoons* in English (both with subtitles and without). I read some *professional articles*, *videos* of the same nature.
+  
+**I also know German.** I studied it at school.
 
 <h2>Thanks for attention!</h2>
